@@ -36,7 +36,7 @@ Tested on :
 - Marvel Rivals (masih perlu compile shaders sebentar setelah restart/penggunaan selanjutnya)
 - Apex Legends (masih perlu compile shaders sebentar setelah restart/penggunaan selanjutnya)
 - Wuthering Waves (masih perlu compile shaders sebentar setelah restart/penggunaan selanjutnya, butuh data lebih valid)
-> Fortnite untested
+> Fortnite untested\
 > CoD untested, tapi sudah disupport
 
 ## Cara Pasang
