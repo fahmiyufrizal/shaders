@@ -45,6 +45,12 @@ Tested on :
 3. Buat shortcut Run_SlimShaders_Client.exe di startup client
 4. SlimShaders_Client akan terbuka dan menjalankan command otomatis saat client dinyalakan
 
+## Tutorial Video
+1. Persiapan Server [(Facebook)](https://www.facebook.com/share/v/1K7zP6ve8U/)
+2. Delta Force Steam [(Facebook)](https://www.facebook.com/share/v/1YVtDkx4TT/)
+3. Delta Force Garena [(Facebook)](https://www.facebook.com/share/v/1DVkvfpJfS/)
+4. Integrasi ClientApp/Startup Script [(Facebook)](https://www.facebook.com/share/v/1ETDGv8gNa/)
+
 ## Support
 Donasi di [QRIS](https://bit.ly/donate_fahmiyufrizal), [DANA](https://bit.ly/donate_fahmiyufrizal), dan [Paypal](https://paypal.me/fahmiyufrizal) untuk mendukung keberlangsungan project ini!\
 Jika ada feedback, silahkan pe-em!
